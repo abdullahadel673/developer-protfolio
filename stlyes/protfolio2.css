@@ -219,4 +219,69 @@ nav li a {
     margin: 0px 47px 29px 0px;
 }
 
-#uncommon {}
+.footer {
+    display: flex;
+    background: rgb(255, 248, 243);
+    padding: 130px 230px 130px 230px;
+    gap: 117px;
+}
+
+.connect {
+    color: rgb(24, 24, 24);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.connect-time {
+    color: rgb(71, 71, 71);
+    font-size: 16px;
+    font-weight: 400;
+
+}
+
+form {
+    display: block;
+}
+
+.Your-name {
+
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding: 18px 340px 18px 30px;
+    margin-top: 28px;
+    margin-bottom: 24px;
+    border: 0;
+}
+
+#Email {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding: 18px 340px 18px 30px;
+    margin-bottom: 24px;
+    border: 0;
+}
+
+#Message {
+    color: rgb(117, 117, 117);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: left;
+    padding: 18px 340px 134px 30px;
+    border: 0;
+}
+
+#submit {
+    margin-top: 24px;
+}
+
+.Message-me {
+    color: rgb(24, 24, 24);
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
